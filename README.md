@@ -1,0 +1,2 @@
+# DiscordBot
+Mute/deafen bot 
